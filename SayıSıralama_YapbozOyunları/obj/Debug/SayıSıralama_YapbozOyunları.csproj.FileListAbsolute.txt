@@ -1,0 +1,13 @@
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\bin\Debug\SayıSıralama_YapbozOyunları.exe.config
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\bin\Debug\SayıSıralama_YapbozOyunları.exe
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\bin\Debug\SayıSıralama_YapbozOyunları.pdb
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.csproj.AssemblyReference.cache
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.Properties.Resources.resources
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.csproj.GenerateResource.cache
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.csproj.CoreCompileInputs.cache
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.exe
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.pdb
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.OyunEkranı.resources
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.YapbozOyunu.resources
+C:\Users\aliag\source\repos\SayıSıralama_YapbozOyunları\obj\Debug\SayıSıralama_YapbozOyunları.SayıKutularıOyunu.resources
